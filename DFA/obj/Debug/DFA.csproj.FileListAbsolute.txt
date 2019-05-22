@@ -1,0 +1,7 @@
+D:\ORADEA_facultate\SEM2\LFA\DFA\DFA\bin\Debug\DFA.exe.config
+D:\ORADEA_facultate\SEM2\LFA\DFA\DFA\bin\Debug\DFA.exe
+D:\ORADEA_facultate\SEM2\LFA\DFA\DFA\bin\Debug\DFA.pdb
+D:\ORADEA_facultate\SEM2\LFA\DFA\DFA\obj\Debug\DFA.csprojAssemblyReference.cache
+D:\ORADEA_facultate\SEM2\LFA\DFA\DFA\obj\Debug\DFA.csproj.CoreCompileInputs.cache
+D:\ORADEA_facultate\SEM2\LFA\DFA\DFA\obj\Debug\DFA.exe
+D:\ORADEA_facultate\SEM2\LFA\DFA\DFA\obj\Debug\DFA.pdb
